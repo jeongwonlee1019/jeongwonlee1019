@@ -4,8 +4,7 @@
 🎓 Double Majoring in Computer Science and Mathematics @ Washington University in St. Louis <br>
 💻 Passionate about full-stack development, algorithms, and creative problem-solving  
 🛠️ **Skills**: JavaScript, Java, Python, Node.js, React.js, MongoDB, MySQL, PHP, HTML, CSS  
-🌱 Currently exploring combinatorics research and dynamic user interfaces  
-✨ Advocate for women in STEM | Mentor and club leader  
+🌱 Currently exploring combinatorics research and dynamic user interfaces
 
 ## 🔧 Projects and Work
 - **Full-Stack Web Applications**: Built applications using JavaScript, Node.js, and databases (MongoDB, MySQL), focusing on user experience and functionality.  

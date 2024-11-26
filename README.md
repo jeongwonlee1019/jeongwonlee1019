@@ -3,7 +3,7 @@
 👋 **Hi, I’m Jeongwon Lee**  
 🎓 Double Majoring in Computer Science and Mathematics @ Washington University in St. Louis <br>
 💻 Passionate about full-stack development, algorithms, and creative problem-solving  
-🛠️ **Skills**: JavaScript, Python, Node.js, React.js, MongoDB, MySQL, PHP  
+🛠️ **Skills**: JavaScript, Java, Python, Node.js, React.js, MongoDB, MySQL, PHP, HTML, CSS  
 🌱 Currently exploring combinatorics research and dynamic user interfaces  
 ✨ Advocate for women in STEM | Mentor and club leader  
 

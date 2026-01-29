@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jeongwon Lee!<br>🎓 Double Majoring in Computer Science and Mathematics @ Washington University in St. Louis<br>💻 Passionate about developing tools for mathematical research, full-stack development, algorithms, and creative problem-solving<br>🛠️ Skills: JavaScript, Python, C++, Java, Node.js, React.js, MongoDB, MySQL, PHP, HTML, CSS<br>🌱 Currently exploring combinatorics research and dynamic user interfaces
+👋 Hi, I’m Jeongwon Lee!<br>🎓 Double Majoring in Mathematics and Financial Engineering @ Washington University in St. Louis<br>💻 Passionate about developing tools for mathematical research, full-stack development, algorithms, and creative problem-solving<br>🛠️ Skills: JavaScript, Python, C++, Java, Node.js, React.js, MongoDB, MySQL, PHP, HTML, CSS<br>🌱 Currently exploring combinatorics research and dynamic user interfaces
 
 
 ## 🌐 Socials:
